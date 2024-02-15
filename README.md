@@ -15,7 +15,7 @@ skyDrop is a simple yet powerful file uploader application built using the MERN 
 - **Express.js**: Web application framework for Node.js, used for handling HTTP requests and routes.
 - **React.js**: Frontend library used for building the user interface.
 - **Node.js**: JavaScript runtime environment used for building the backend server.
-- **Cloud Storage Service**: Integration with a cloud storage service (cdn.) for storing uploaded images securely.
+- **Cloud Storage Service**: Integration with a cloud storage service (cloudinary.) for storing uploaded images securely.
 - **Authentication**: JWT (JSON Web Tokens) for user authentication and authorization.
 
 ## Installation
