@@ -1,4 +1,4 @@
-# SkyDrop - image Uploader App
+# SkyDrop - File Sharing App
   
 skyDrop is a simple yet powerful file uploader application built using the MERN stack, allowing users to securely register, log in, and upload images that are stored in the cloud.
 
